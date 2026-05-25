@@ -40,8 +40,8 @@ n8n workflow + Node.js script that classifies Thai solar documents with Gemini a
 ---
 
 ## 🛠 Tech Stack
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,postgres,prisma,git,docker" alt="Tech Stack" />
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,postgres,prisma,git,docker,githubactions" alt="Tech Stack" />
 </div>
 <br>
 
@@ -49,22 +49,17 @@ n8n workflow + Node.js script that classifies Thai solar documents with Gemini a
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h2>📌 What I’m into</h2>
-      <ul>
-        <li>Internal tools that teams actually use</li>
-        <li>Automation workflows (n8n) + document processing</li>
-        <li>Clean UI + reliable backend systems</li>
-      </ul>
-    </td>
-    <td valign="top" width="40%" align="center">
-      <h2>🔐 Cybersecurity</h2>
-      <img height="150" alt="Cyber GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-    </td>
-  </tr>
-</table>
+## 📌 What I’m into & 🔐 Cybersecurity
+
+<img align="right" width="420" alt="Cyber GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
+
+**Focus Areas:**
+- Internal tools that teams actually use
+- Automation workflows (n8n) + document processing
+- Clean UI + reliable backend systems
+- Expanding knowledge in **Cybersecurity** 
+
+<br clear="all">
 
 ---
 
