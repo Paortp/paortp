@@ -40,8 +40,8 @@ n8n workflow + Node.js script that classifies Thai solar documents with Gemini a
 ---
 
 ## 🛠 Tech Stack
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,nodejs,postgres,prisma,git,docker,githubactions" alt="Tech Stack" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,postgres,prisma,git,docker" alt="Tech Stack" />
 </div>
 <br>
 
