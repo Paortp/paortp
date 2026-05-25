@@ -50,3 +50,7 @@ n8n workflow + Node.js script that classifies Thai solar documents with Gemini a
 
 
 Thanks for visiting — feel free to check the repos or reach out to collaborate 🤝
+
+## My Cybersecurity Interests
+<img hight="400" width="500" alt="GIF" align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="50%"/>
+
