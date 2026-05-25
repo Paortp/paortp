@@ -64,15 +64,15 @@ n8n workflow + Node.js script that classifies Thai solar documents with Gemini a
 
 ## 📌 What I’m into & 🔐 Cybersecurity
 
-<img width="420" alt="Cyber GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
-<br><br>
-**Focus Areas:**<br>
-Internal tools that teams actually use<br>
-Automation workflows (n8n) + document processing<br>
-Clean UI + reliable backend systems<br>
-Expanding knowledge in **Cybersecurity** 
+<img align="right" width="420" alt="Cyber GIF" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
-</div>
+**Focus Areas:**
+- Internal tools that teams actually use
+- Automation workflows (n8n) + document processing
+- Clean UI + reliable backend systems
+- Expanding knowledge in **Cybersecurity** 
+
+<br clear="all">
 
 ---
 
